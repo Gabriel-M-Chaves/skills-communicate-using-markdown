@@ -5,3 +5,5 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] passo 1, 2 e 3 completos
+- [ ] finalizar tutorial
