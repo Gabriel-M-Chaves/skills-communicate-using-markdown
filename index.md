@@ -1,3 +1,2 @@
-# testando headers <h1>
-# teste <h2>
-# blablablaba <h4>
+# Add images <h1>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
